@@ -20,6 +20,6 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 #### Revisando conceitos e aplicações referentes Internet das Coisas
 
-[Introdução à Internet das Coisas:](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_conceitos_tecnologias.pdf)
+  * [Introdução à Internet das Coisas:](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_conceitos_tecnologias.pdf)
 
-[IoT Comic Book](https://iotcomicbook.org/)
+  * [IoT Comic Book](https://iotcomicbook.org/)
