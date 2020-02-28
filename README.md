@@ -23,3 +23,13 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * [Introdução à Internet das Coisas:](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_conceitos_tecnologias.pdf)
 
   * [IoT Comic Book](https://iotcomicbook.org/)
+
+### Encontro em 28/02/2020
+
+#### Entendendo o uso de Dashboards
+
+https://metricasboss.com.br/4-dashboard-com-versoes-gratis-para-voce-visualizar-seus-resultados-de-forma-pratica-e-rapida.html
+
+https://metricasboss.com.br/datadeck-dashboard-gratuito.html
+
+https://www.predictiveanalyticstoday.com/open-source-dashboard-software/
