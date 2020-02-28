@@ -28,4 +28,4 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 #### Entendendo o uso de Dashboards
 
-https://www.predictiveanalyticstoday.com/open-source-dashboard-software/
+  * https://www.predictiveanalyticstoday.com/open-source-dashboard-software/
