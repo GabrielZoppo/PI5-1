@@ -29,3 +29,8 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 #### Entendendo o uso de Dashboards
 
   * https://www.predictiveanalyticstoday.com/open-source-dashboard-software/
+
+#### Encontro em 06/03/2020
+
+##### Ferramentas de Monitoramento
+  * [Linha de Comando](https://solivrebonfim.wordpress.com/2013/05/07/10-ferramentas-de-linha-de-comandos-para-monitorar-a-performance-do-linux/)
