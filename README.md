@@ -32,5 +32,6 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 #### Encontro em 06/03/2020
 
-##### Ferramentas de Monitoramento
+##### Ferramentas de Monitoramento Local para Linux
   * [Linha de Comando](https://solivrebonfim.wordpress.com/2013/05/07/10-ferramentas-de-linha-de-comandos-para-monitorar-a-performance-do-linux/)
+  * [Gráficas](https://homelaber.com.br/linux-dashboards-ferramentas-simples-para-monitorar-o-seu-servidor-linux/)
