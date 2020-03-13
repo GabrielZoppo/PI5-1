@@ -37,3 +37,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * [Gráficas](https://homelaber.com.br/linux-dashboards-ferramentas-simples-para-monitorar-o-seu-servidor-linux/)
 
   * [Porque Monitorar](https://epocanegocios.globo.com/Tecnologia/noticia/2018/10/como-o-exercito-chines-pode-ter-se-infiltrado-na-apple-e-em-outras-grandes-empresas-americanas.html)
+
+### Encontro em 13/03/2020
+  * [Protocolo MQTT - Material IBM](https://www.ibm.com/developerworks/br/library/iot-mqtt-why-good-for-iot/index.html)
+  * [Slides sobre MQTT - Material UFC](https://pt.slideshare.net/MaurcioMoreiraNeto/protocolo-mqtt-redes-de-computadores)
