@@ -45,6 +45,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 ### Encontro em 20/03/2020
   * Brokers MQTT públicos:
     * [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/)
+    * [Eclipse](https://iot.eclipse.org/)
   * [Python & MQTT](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
   * [ThingSpeak](https://thingspeak.com/)
   * [MQTT & Android](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
