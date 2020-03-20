@@ -46,3 +46,5 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * Brokers MQTT públicos:
     * [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/i)
   * Python & MQTT
+  * [ThingSpeak](https://thingspeak.com/)
+  * [MQTT & Android](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
