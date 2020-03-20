@@ -43,3 +43,6 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * [Slides sobre MQTT - Material UFC](https://pt.slideshare.net/MaurcioMoreiraNeto/protocolo-mqtt-redes-de-computadores)
 
 ### Encontro em 20/03/2020
+  * Brokers MQTT públicos:
+    * [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/i)
+  * Python & MQTT
