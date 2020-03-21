@@ -49,3 +49,4 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * [Explorando o uso de MQTT em Programas Python](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
   * [ThingSpeak: Plataforma de Nuvem para IoT](https://thingspeak.com/)
   * [Exemplo de aplicação integrando o uso de MQTT, Android e a plataforma ESP32](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
+  * Atividade Prevista para o dia 27/03/2020
