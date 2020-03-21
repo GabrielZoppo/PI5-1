@@ -47,5 +47,5 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * Brokers MQTT:
     * [Postagem que apresenta brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
   * [Explorando o uso de MQTT em Programas Python](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
-  * [Plataforma de Nuvem para IoT ThingSpeak](https://thingspeak.com/)
+  * [ThingSpeak: Plataforma de Nuvem para IoT](https://thingspeak.com/)
   * [Exemplo de aplicação integrando o uso de MQTT, Android e a plataforma ESP32](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
