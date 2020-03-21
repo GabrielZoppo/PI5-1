@@ -45,7 +45,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 20/03/2020
   * Brokers MQTT:
-    * [Postagem que apresenta brokers gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
+    * [Postagem que apresenta brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
   * [Python & MQTT](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
   * [ThingSpeak](https://thingspeak.com/)
   * [MQTT & Android](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
