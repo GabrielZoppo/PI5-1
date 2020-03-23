@@ -50,7 +50,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * [Explorando o uso de MQTT em Programas Python](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
   * Atividade Prevista para o dia 27/03/2020
     * Criar uma conta sem custo na [ThingSpeak](https://thingspeak.com/), que é uma plataforma de Nuvem para IoT
-    * Utilizando o exemplo disponível sobre MQTT & Python, elabore um dois programas: (i) que envie conteúdos para um determinado tópicos em um Broker MQTT; e (ii) outro programa que subscreva este tópico no mesmo Broker MQTT.
+    * Utilizando o exemplo disponível sobre MQTT & Python, elabore um dois programas: (i) que envie conteúdos para um determinado tópico em um Broker MQTT; e (ii) outro programa que subscreva este tópico no mesmo Broker MQTT.
     * Postar os dois programas em um repositório GitHub e enviar o link do repositório para o email adenuaer.yamin@ucpel.edu.br
-  
-  * [Exemplo de aplicação integrando o uso de MQTT, Android e a plataforma ESP32](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
+  * Para uso futuro:
+    * [Exemplo de aplicação integrando o uso de MQTT, Android e a plataforma ESP32](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
