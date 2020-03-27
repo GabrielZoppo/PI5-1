@@ -55,3 +55,10 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * Postar os dois programas em um repositório GitHub e enviar o link do repositório para o email adenuaer.yamin@ucpel.edu.br
   * Para uso futuro:
     * [Exemplo de aplicação integrando o uso de MQTT, Android e a plataforma ESP32](https://www.filipeflop.com/blog/esp32-e-mqtt-dashboard-android/)
+    
+### Encontro em 27/03/2020
+
+  * Relatos de experiências
+  * Postagem do Repositório Git dos alunos
+  * Discussão do projeto desenvolvido pelo Matheus Stigger
+  * Planejamento da Atividade da Semana
