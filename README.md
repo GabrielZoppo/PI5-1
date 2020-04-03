@@ -64,3 +64,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * Planejamento da Atividade da Semana: 
     * Opção A: Reproduzir Arduino & wi-fi & Thingsboard
     * Opção B: Python no Desktop & ThingSpeak
+
+### Encontro em 03/04/2020
+  * Revisando o desenvolvido durante a semana
+  * Explorando scripts Bash para coleta de informações em sistemas Linux
