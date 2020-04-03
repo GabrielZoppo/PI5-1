@@ -68,3 +68,4 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 ### Encontro em 03/04/2020
   * Revisando o desenvolvido durante a semana
   * Explorando scripts Bash para coleta de informações em sistemas Linux
+  * [Installing ThingsBoard using Docker](https://thingsboard.io/docs/user-guide/install/docker/)
