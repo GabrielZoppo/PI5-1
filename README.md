@@ -12,8 +12,8 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 |Guilherme Carvalho | |
 |Guilherme Baccarin | |
 |Helena Garcia Tavares |  |
-|Ícaro Gonçalves Siqueira  |  |
-|Matheus Gonçalves Stigger   | [Repositório](https://github.com/MGStigger/PI_V)|
+|Ícaro Gonçalves Siqueira  | [Repositório](https://github.com/IcaroGSiqueira/piv) |
+|Matheus Gonçalves Stigger   | [Repositório](https://github.com/MGStigger/PI_V) |
 |Miguel Gut Seara | |
 |   |   |   | |
 
