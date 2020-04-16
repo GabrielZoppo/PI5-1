@@ -69,3 +69,6 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * Revisando o desenvolvido durante a semana
   * Explorando scripts Bash para coleta de informações em sistemas Linux
   * [Installing ThingsBoard using Docker](https://thingsboard.io/docs/user-guide/install/docker/) [opcional]
+
+### Encontro em 10/04/2020
+  * **Integrando a ESP01 com o Arduino Uno**
