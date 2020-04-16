@@ -72,3 +72,13 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 10/04/2020
   * **Integrando a ESP01 com o Arduino Uno**
+    * [Por Euler Oliveira - 1a Postagem](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - Orientações utilizadsas por Matheus Stigger
+    * [Por Euler Oliveira - 2a Postagem](https://blogmasterwalkershop.com.br/blynk/blynk-controle-do-arduino-via-wifi-com-esp8266-esp-01/)
+    * [Por André Curvello](https://www.embarcados.com.br/esp8266-com-arduino/)
+    * [Por Fernando K](https://www.fernandok.com/2018/10/webserver-arduino-uno-com-wifi-esp01.html)
+    * [Por Arduino e Cia](https://www.arduinoecia.com.br/arduino-modulo-wireless-esp8266-esp-01/)
+    * [Robin Kanattu Thomas](https://www.hackster.io/ROBINTHOMAS/programming-esp8266-esp-01-with-arduino-011389)
+    * [Por Jaycon Systems](https://www.instructables.com/id/Using-ESP-01-and-Arduino-UNO/)
+    * [Por Adilson Thomsen](https://www.filipeflop.com/blog/esp8266-arduino-tutorial/)
+   
+    
