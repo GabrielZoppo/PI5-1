@@ -81,6 +81,8 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * [Por Jaycon Systems](https://www.instructables.com/id/Using-ESP-01-and-Arduino-UNO/)
     * [Por Robin Kanattu Thomas](https://www.hackster.io/ROBINTHOMAS/programming-esp8266-esp-01-with-arduino-011389)
 
+### Encontro em 17/04/2020
+
   * **Interoperando o Arduino Uno com o Desktop**
     * [Por Wellington Cássio](http://labdegaragem.com/profiles/blogs/comunicando-arduino-e-python) - Recebendo valores do Arduino
     * [Por Hudson Brendon](https://medium.com/code-rocket-blog/python-e-arduino-ganhando-produtividade-em-seus-projetos-de-internet-das-coisas-37781e21b9ee) - Escrevendo valores no Arduino
