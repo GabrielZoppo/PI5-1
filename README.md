@@ -75,7 +75,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * [Por Adilson Thomsen](https://www.filipeflop.com/blog/esp8266-arduino-tutorial/)
     * [Por André Curvello](https://www.embarcados.com.br/esp8266-com-arduino/)
     * [Por Arduino e Cia](https://www.arduinoecia.com.br/arduino-modulo-wireless-esp8266-esp-01/)
-    * [Por Euler Oliveira - 1a Postagem](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - Orientações utilizadsas por Matheus Stigger
+    * [Por Euler Oliveira - 1a Postagem](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - Orientações utilizadas por Matheus Stigger
     * [Por Euler Oliveira - 2a Postagem](https://blogmasterwalkershop.com.br/blynk/blynk-controle-do-arduino-via-wifi-com-esp8266-esp-01/)
     * [Por Fernando K](https://www.fernandok.com/2018/10/webserver-arduino-uno-com-wifi-esp01.html)
     * [Por Jaycon Systems](https://www.instructables.com/id/Using-ESP-01-and-Arduino-UNO/)
