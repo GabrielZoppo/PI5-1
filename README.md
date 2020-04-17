@@ -86,5 +86,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * [Por Hudson Brendon](https://medium.com/code-rocket-blog/python-e-arduino-ganhando-produtividade-em-seus-projetos-de-internet-das-coisas-37781e21b9ee) - Escrevendo valores no Arduino
     * [Por Cleiton Bueno](https://www.embarcados.com.br/python-e-arduino-comunicacao-serial/) - Discussão mais detalhada
     * [Por Mauricio Gavina](https://www.filipeflop.com/blog/integrando-processing-e-arduino-com-a-biblioteca-firmata/) - Emprego da [Biblioteca Firmata](https://github.com/firmata/protocol)
-   
-    
+
+  * **Desktop Comunicando Via MQTT**
+    * Empregando os clientes da plataforma [Mosquitto](https://mosquitto.org/)
+    * Empregando Python utilizando a biblioteca [paho](https://www.eclipse.org/paho/) - [Exemplos objetivos](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
