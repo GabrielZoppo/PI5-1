@@ -92,3 +92,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * **Desktop Comunicando via MQTT o Servidores IoT**
     * Empregando os clientes da plataforma [Mosquitto](https://mosquitto.org/)
     * Empregando Python utilizando a biblioteca [eclipse paho](https://www.eclipse.org/paho/) - [Exemplos objetivos](https://fazbe.github.io/Usando-o-paho-mqtt-para-Python/)
+    
+   * **Desktop Comunicando via Biblioteca do Servidor IoT**  
+     * Valor do sensor lido pelo Python (oriundo do Arduino)
+     * Utilizando as bibliotecas do próprio ThingSpeak realizar a publicação
