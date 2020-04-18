@@ -96,3 +96,4 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
    * **Desktop Comunicando via Biblioteca do Servidor IoT**  
      * Valor do sensor lido pelo Python (oriundo do Arduino)
      * Utilizando as bibliotecas do próprio ThingSpeak realizar a publicação
+       * Tutorial utilizando [MQTT](https://www.mathworks.com/help/thingspeak/use-desktop-mqtt-client-to-publish-to-a-channel.html) - Veja também o exemplo do Miguel
