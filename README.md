@@ -100,5 +100,5 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 24/04/2020
    * Conversando com o Google Docs
-   * [Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
-   * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
+     * [Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+     * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
