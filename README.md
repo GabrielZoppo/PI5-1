@@ -14,7 +14,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 |Helena Garcia Tavares |  |
 |Ícaro Gonçalves Siqueira  | [Repositório](https://github.com/IcaroGSiqueira/piv) |
 |Matheus Gonçalves Stigger   | [Repositório](https://github.com/MGStigger/PI_V) |
-|Miguel Gut Seara | |
+|Miguel Gut Seara | [Repositório](https://github.com/miguelgut/piv_python_mqtt)|
 |   |   |   | |
 
 ### Encontro em 21/02/2020
@@ -97,3 +97,8 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
      * Valor do sensor lido pelo Python (oriundo do Arduino)
      * Utilizando as bibliotecas do próprio ThingSpeak realizar a publicação
        * Tutorial utilizando [MQTT](https://www.mathworks.com/help/thingspeak/use-desktop-mqtt-client-to-publish-to-a-channel.html) - Veja também o exemplo do Miguel
+
+### Encontro em 24/04/2020
+   * Conversando com o Google Docs
+   * [Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+   * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
