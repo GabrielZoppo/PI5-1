@@ -117,4 +117,5 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 }
 ~~~
 
-     * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
+
+  * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
