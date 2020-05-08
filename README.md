@@ -130,5 +130,9 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     * Repetir o processo em um intervalo de tempo "pequeno"
     
 * Guilherme Carvalho:
-    * Arduíno --> Desktop --> ThingSpeak
+    * Arduíno <--> Desktop --> ThingSpeak
 
+* Guilherme Baccarin
+    * ESP32 (programada em C) --> CloudMQTT
+    
+*     
