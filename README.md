@@ -140,3 +140,6 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
 * Matheus Stigger:
     * Arduíno (Sensor temperatura) --> Desktop ==> (Programa1 MQTT, Programa 2 REST) ThingSpeak
+    
+* Miguel Seara:
+    * Arduino (Sensor luz) --> Desktop --> (MQTT) ThingSpeak
