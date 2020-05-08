@@ -132,7 +132,8 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 * Guilherme Carvalho:
     * Arduíno <--> Desktop --> ThingSpeak
 
-* Guilherme Baccarin
+* Guilherme Baccarin:
     * ESP32 (programada em C) --> CloudMQTT
     
-*     
+* Ícaro Siqueira:
+    * Ocupação no Desktop: CPU, Memória, HD e Temperaturas --> (n Programas Python no Desktop) --> ThingSpeak
