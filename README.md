@@ -122,9 +122,13 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
 
 ### Encontro em 08/05/2020 - Primeira Etapa do Processo Avaliativo (1a. Nota)
-  * Gabriel: Coletar a Ocupação de CPU e submeter a Plataforma ThingSpeak por MQTT
+
+* Gabriel Zoppo: Coletar a Ocupação de CPU e submeter a Plataforma ThingSpeak por MQTT
     * Fazer uma rotina em Python para ler a ocupação da CPU
     * Fazer uma rotina em Python para submeter no ThingSpeak a ocupação da CPU já lida
     * Estas duas rotinas podem fazer parte de um mesmo programa
     * Repetir o processo em um intervalo de tempo "pequeno"
+    
+* Guilherme Carvalho:
+    * Arduíno --> Desktop --> ThingSpeak
 
