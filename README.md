@@ -137,3 +137,6 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     
 * Ícaro Siqueira:
     * Ocupação no Desktop: CPU, Memória, HD e Temperaturas --> (n Programas Python no Desktop) --> ThingSpeak
+
+* Matheus Stigger:
+    * Arduíno (Sensor temperatura) --> Desktop ==> (Programa1 MQTT, Programa 2 REST) ThingSpeak
