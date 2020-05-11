@@ -10,7 +10,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 | **Nome** |   |
 |Gabriel Härter Zoppo  |  |
 |Guilherme Carvalho | [Repositório](https://github.com/carvalhoGuilherme/PI5) |
-|Guilherme Baccarin | |
+|Guilherme Baccarin | [Repositório](https://github.com/Baccarin/ProjetoIntegrador-V) |
 |Helena Garcia Tavares |  |
 |Ícaro Gonçalves Siqueira  | [Repositório](https://github.com/IcaroGSiqueira/piv) |
 |Matheus Gonçalves Stigger   | [Repositório](https://github.com/MGStigger/PI_V) |
