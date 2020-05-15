@@ -146,3 +146,8 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     
 * Miguel Seara:
     * Arduino (Sensor luz) --> Desktop --> (MQTT) ThingSpeak
+
+### Encontro em 15/05/2020 - Primeira Etapa do Processo Avaliativo (1a. Nota) - Continuação
+
+* Gabriel Zoppo:
+    * 
