@@ -149,5 +149,10 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
 ### Encontro em 15/05/2020 - Primeira Etapa do Processo Avaliativo (1a. Nota) - Continuação
 
-* Gabriel Zoppo:
-    * 
+* Gabriel Zoppo
+* Gilherme Carvalho (Não)
+* Guilherme Baccarin
+* Helena Garcia Tavares (Não)
+* Ícaro Gonçalves Siqueira
+* Matheus Gonçalves Stigger
+* Miguel Gut Seara
