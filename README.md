@@ -120,6 +120,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
   * [Tratando os dados recebidos](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
 
+### Encontro em 01/05/2020 - Feriado do Dia do Trabalho
 
 ### Encontro em 08/05/2020 - Primeira Etapa do Processo Avaliativo (1a. Nota)
 
@@ -156,3 +157,8 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 * Ícaro Gonçalves Siqueira
 * Matheus Gonçalves Stigger
 * Miguel Gut Seara
+
+### Encontro em 22/05/2020 - Finalização da Primeira Etapa do Processo Avaliativo (1a. Nota)
+
+* Discussão de particularidades pendentes nos trabalhos dos alunos
+
