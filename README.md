@@ -17,6 +17,13 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 |Miguel Gut Seara | [Repositório](https://github.com/miguelgut/piv_python_mqtt)|
 |   |   |   | |
 
+
+### LaTeX & Overleaf
+
+  * https://www.overleaf.com/
+  * [Template SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos)
+
+
 ### Encontro em 21/02/2020
 
 #### Revisando conceitos e aplicações referentes Internet das Coisas
