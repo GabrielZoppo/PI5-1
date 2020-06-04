@@ -174,4 +174,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
   * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-google-apps-script.pdf)
   * [Livro](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=livro-google-apps-script.pdf)
 
+### Encontro em 05/06/2020 - Simulações
+* [Tinkercad da Autodesk](https://www.tinkercad.com/)
+  * Utilizando Wi-Fi com a ESP01: [Exemplo 1](https://www.youtube.com/watch?v=IhbyzAKt4bc) - [Exemplo 2](https://www.youtube.com/watch?v=NhTru6W4LKQ)
 
