@@ -178,3 +178,5 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 * [Tinkercad da Autodesk](https://www.tinkercad.com/) - Um simulador bastante completo do Arduino
   * Utilizando Wi-Fi com a ESP01: [Exemplo 1](https://www.youtube.com/watch?v=IhbyzAKt4bc) - [Exemplo 2](https://www.youtube.com/watch?v=NhTru6W4LKQ)
 
+### Encontro em 12/06/2020
+* Recesso do Feriado de Corpus Christi.
