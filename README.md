@@ -183,13 +183,14 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
 ### Encontro em 19/06/2020
 * Planejamento da Segunda Avaliação
-  * Data:
-  * Projeto Operacional envolvendo o Simulador de Arduino e uma plataforma da IoT
+  * Data: 03/06/2020
+  * Projeto Operacional envolvendo o Simulador de Arduino Tinkercad e uma plataforma da IoT
   * Projetos:
-    * Comunicação entre dois Arduinos Simulados envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto
-    * Publicar dados do Arduíno Simulado em uma Plataforma de Nuvem para IoT:
-     * Uma planilha do Google
-     * ThingSpeak
-     * Um programa no Notebook
+    * Comunicação entre dois Simuladores de Arduinos Tinkercad envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto. A operação deverá ser simétrica (Guilherme) (ESP32 <-> Arduino Simulado)
+    * Controlar o acedimento de dois LEDS no Simulador de Arduino Tinkercad a partir de um programa no Notebook. Empregar MQTT para as comunicações (Gabriel)
+    * Publicar dados do Simulador de Arduino Tinkercad em uma Plataforma de Nuvem para IoT:
+     * Uma planilha do Google (Miguel)
+     * ThingSpeak (Icaro): MQTT e REST (HTTP)
+     * Um programa no Notebook (utilizando MQTT) (Matheus)
 
   
