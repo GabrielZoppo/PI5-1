@@ -186,7 +186,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
   * Data: 03/06/2020
   * Projeto Operacional envolvendo o Simulador de Arduino Tinkercad e uma plataforma da IoT
   * Projetos:
-    * Gabriel:
+    * **Gabriel:**
       * Controlar o acedimento de dois LEDS no Simulador de Arduino Tinkercad a partir de um programa no Notebook. Empregar MQTT para as comunicações.
   
 ----
