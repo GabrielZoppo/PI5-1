@@ -186,8 +186,13 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
   * Data: 03/06/2020
   * Projeto Operacional envolvendo o Simulador de Arduino Tinkercad e uma plataforma da IoT
   * Projetos:
+    * Gabriel:
+      * Controlar o acedimento de dois LEDS no Simulador de Arduino Tinkercad a partir de um programa no Notebook. Empregar MQTT para as comunicações.
+  
+----
+
+
     * Comunicação entre dois Simuladores de Arduinos Tinkercad envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto. A operação deverá ser simétrica (Guilherme) (ESP32 <-> Arduino Simulado)
-    * Controlar o acedimento de dois LEDS no Simulador de Arduino Tinkercad a partir de um programa no Notebook. Empregar MQTT para as comunicações (Gabriel)
     * Publicar dados do Simulador de Arduino Tinkercad em uma Plataforma de Nuvem para IoT:
      * Uma planilha do Google (Miguel)
      * ThingSpeak (Icaro): MQTT e REST (HTTP)
