@@ -200,7 +200,6 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
     * Comunicação entre dois Simuladores de Arduinos Tinkercad envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto. A operação deverá ser simétrica (Guilherme) (ESP32 <-> Arduino Simulado)
     * Publicar dados do Simulador de Arduino Tinkercad em uma Plataforma de Nuvem para IoT:
-     * Uma planilha do Google (Miguel)
      * ThingSpeak (Icaro): MQTT e REST (HTTP)
      * Um programa no Notebook (utilizando MQTT) (Matheus)
 
