@@ -187,7 +187,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
   * Projeto Operacional envolvendo o Simulador de Arduino Tinkercad e uma plataforma da IoT
   * Projetos:
     * **Gabriel:**
-      * Controlar o acedimento de dois LEDS no Simulador de Arduino Tinkercad a partir de um programa no Notebook. Empregar MQTT para as comunicações.
+      * Publicar dados do Notebook na plataforma Thingsboard (https://demo.thingsboard.io) Empregar MQTT para as comunicações e Python como linguagem de programação.
     * **Matheus:**
       * Publicar dados da iluminação ambiente do Arduino, utilizando a ESP01, no Notebook. Programar o Notebook utilizando Python. [Tinkercad --> Broker MQTT <--> Notebook (o Notebook se subscreve em um Tópico no Broker MQTT, por sua vez o Tinkercad publica no Broker utilizando este Tópico)
     * **Miguel:**
