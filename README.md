@@ -192,6 +192,8 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
       * Publicar dados da iluminação ambiente do Arduino, utilizando a ESP01, no Notebook. Programar o Notebook utilizando Python. [Tinkercad --> Broker MQTT <--> Notebook (o Notebook se subscreve em um Tópico no Broker MQTT, por sua vez o Tinkercad publica no Broker utilizando este Tópico)
     * **Miguel:**
       * Publicar dados do Simulador de Arduino Tinkercad em uma planilha do Google
+    * **Ícaro:**
+      * Publicar do simulador Fritizing na plataforma de nuvem ThingSpeak utilizando MQTT
       
 
 
@@ -200,6 +202,5 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 
     * Comunicação entre dois Simuladores de Arduinos Tinkercad envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto. A operação deverá ser simétrica (Guilherme) (ESP32 <-> Arduino Simulado)
     * Publicar dados do Simulador de Arduino Tinkercad em uma Plataforma de Nuvem para IoT:
-     * ThingSpeak (Icaro): MQTT e REST (HTTP)
 
   
