@@ -188,19 +188,16 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
   * Projetos:
     * **Gabriel:**
       * Publicar dados do Notebook na plataforma Thingsboard (https://demo.thingsboard.io) Empregar MQTT para as comunicações e Python como linguagem de programação.
+    * **Guilherme:**
+      * Comunicação entre duas ESP32: Uma ESP32 deverá controlar o acendimento de um LED na outra ESP a partir do pressiornar de um botão. A comunicação entre as ESPs deverá acontecer via MQTT.
     * **Matheus:**
-      * Publicar dados da iluminação ambiente do Arduino, utilizando a ESP01, no Notebook. Programar o Notebook utilizando Python. [Tinkercad --> Broker MQTT <--> Notebook (o Notebook se subscreve em um Tópico no Broker MQTT, por sua vez o Tinkercad publica no Broker utilizando este Tópico)
+      * Publicar dados da iluminação ambiente do Arduino, utilizando a ESP01 em um Notebook. Programar o Notebook utilizando Python e empregar como protocolo de comunicação o MQTT. 
     * **Miguel:**
-      * Publicar dados do Simulador de Arduino Tinkercad em uma planilha do Google
+      * Publicar dados da partir de um programa em Python no Notebook. em uma planilha do Google
     * **Ícaro:**
       * Publicar do simulador Fritizing (https://fritzing.org/) na plataforma de nuvem ThingSpeak utilizando MQTT
       
 
 
 ----
-
-
-    * Comunicação entre dois Simuladores de Arduinos Tinkercad envolvendo um Broker MQTT externo. Ao pressionar de um botão deverá acender um LED no Arduino remoto. A operação deverá ser simétrica (Guilherme) (ESP32 <-> Arduino Simulado)
-    * Publicar dados do Simulador de Arduino Tinkercad em uma Plataforma de Nuvem para IoT:
-
   
