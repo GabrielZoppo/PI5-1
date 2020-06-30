@@ -193,7 +193,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     * **Miguel:**
       * Publicar dados do Simulador de Arduino Tinkercad em uma planilha do Google
     * **Ícaro:**
-      * Publicar do simulador Fritizing na plataforma de nuvem ThingSpeak utilizando MQTT
+      * Publicar do simulador Fritizing (https://fritzing.org/) na plataforma de nuvem ThingSpeak utilizando MQTT
       
 
 
