@@ -23,6 +23,9 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
   * https://www.overleaf.com/
   * [Template SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos)
 
+### Simuladores de Arduino
+  * [SimulIDE](https://www.simulide.com/p/home.html)
+
 
 ### Encontro em 21/02/2020
 
