@@ -25,6 +25,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Simuladores de Arduino
   * [SimulIDE](https://www.simulide.com/p/home.html)
+  * [Tinkercad](https://www.tinkercad.com)
 
 
 ### Encontro em 21/02/2020
