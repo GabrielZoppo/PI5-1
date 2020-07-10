@@ -201,7 +201,13 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     * **Ícaro:**
       * Publicar do simulador Fritizing (https://fritzing.org/) na plataforma de nuvem ThingSpeak utilizando MQTT
       
+### Encontro em 26/06/2020
+* Discussões a respeito das atividades desenvolvidas ao longo do semestre, relacionando sua intersecção com a prática de projetos em engenharia de computação.
+* Discussão dos procedimentos para a para a finalização da Segunda Avaliação.
 
+### Encontro em 03/07/2020
+ * Finalização da Segunda Avaliação com apresentações por parte dos alunos.
+ 
 
 ----
   
