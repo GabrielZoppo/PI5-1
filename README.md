@@ -30,7 +30,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 21/02/2020
 
-#### Revisando conceitos e aplicações referentes Internet das Coisas
+#### Revisando conceitos e tipos de aplicações referentes a Internet das Coisas
 
   * [Introdução à Internet das Coisas:](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_conceitos_tecnologias.pdf)
 
@@ -38,23 +38,25 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 28/02/2020
 
-#### Entendendo o uso de Dashboards
+#### Discutindo o uso de Dashboards em Engenharia de Computação
 
   * https://www.predictiveanalyticstoday.com/open-source-dashboard-software/
 
 ### Encontro em 06/03/2020
 
-##### Ferramentas de Monitoramento Local para Linux
+##### Revisando Ferramentas de Monitoramento Local para o Sistema Operacional Linux
   * [Linha de Comando](https://solivrebonfim.wordpress.com/2013/05/07/10-ferramentas-de-linha-de-comandos-para-monitorar-a-performance-do-linux/)
   * [Gráficas](https://homelaber.com.br/linux-dashboards-ferramentas-simples-para-monitorar-o-seu-servidor-linux/)
   * [Porque Monitorar](https://epocanegocios.globo.com/Tecnologia/noticia/2018/10/como-o-exercito-chines-pode-ter-se-infiltrado-na-apple-e-em-outras-grandes-empresas-americanas.html)
 
 ### Encontro em 13/03/2020
-  * [Protocolo MQTT - Material IBM](https://www.ibm.com/developerworks/br/library/iot-mqtt-why-good-for-iot/index.html)
-  * [Protocolo MQTT - Material Curto Circuito](https://www.curtocircuito.com.br/blog/introducao-ao-mqtt/)
-  * [Slides sobre MQTT - Material UFC](https://pt.slideshare.net/MaurcioMoreiraNeto/protocolo-mqtt-redes-de-computadores)
+  * **Fundamentos e Aplicações do Protocolo MQTT**
+    * [Protocolo MQTT - Material IBM](https://www.ibm.com/developerworks/br/library/iot-mqtt-why-good-for-iot/index.html)
+    * [Protocolo MQTT - Material Curto Circuito](https://www.curtocircuito.com.br/blog/introducao-ao-mqtt/)
+    * [Slides sobre MQTT - Material UFC](https://pt.slideshare.net/MaurcioMoreiraNeto/protocolo-mqtt-redes-de-computadores)
 
 ### Encontro em 20/03/2020
+* **Explorando o protocolo MQTT com a Linguagem Python**
   * Tópicos para Uso na Atividade a Ser Desenvolvida
     * Brokers MQTT:
       * [Postagem que apresenta brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/)
@@ -69,7 +71,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     
 ### Encontro em 27/03/2020
 
-  * Relatos de experiências
+* **Relatos de experiências pelos alunos e Criação de Repositório Git**
   * Postagem do Repositório Git dos alunos
   * Discussão do projeto desenvolvido pelo Matheus Stigger: [Arduino & Wi-Fi & ESP01](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - [Arduino & ThingsBoard](https://thingsboard.io/docs/samples/arduino/temperature/ )
   * Planejamento da Atividade da Semana: 
@@ -77,6 +79,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
     * Opção B: Python no Desktop & ThingSpeak
 
 ### Encontro em 03/04/2020
+ * **Explorando scripts Bash para coleta de informações em sistemas Linux**
   * Revisando o desenvolvido durante a semana
   * Explorando scripts Bash para coleta de informações em sistemas Linux
   * [Installing ThingsBoard using Docker](https://thingsboard.io/docs/user-guide/install/docker/) [opcional]
@@ -94,7 +97,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 ### Encontro em 17/04/2020
 
-  * **Interoperando o Arduino Uno com o Desktop**
+  * **Interoperando o Arduino Uno com o Desktop empregando a Porta Serial. Discussão de abordagens e bibliotecas.**
     * [Por Wellington Cássio](http://labdegaragem.com/profiles/blogs/comunicando-arduino-e-python) - Recebendo valores do Arduino
     * [Por Hudson Brendon](https://medium.com/code-rocket-blog/python-e-arduino-ganhando-produtividade-em-seus-projetos-de-internet-das-coisas-37781e21b9ee) - Escrevendo valores no Arduino
     * [Por Cleiton Bueno](https://www.embarcados.com.br/python-e-arduino-comunicacao-serial/) - Discussão mais detalhada
@@ -110,8 +113,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
        * Tutorial utilizando [MQTT](https://www.mathworks.com/help/thingspeak/use-desktop-mqtt-client-to-publish-to-a-channel.html) - Veja também o exemplo do [Miguel](https://github.com/miguelgut/piv_python_mqtt)
 
 ### Encontro em 24/04/2020
-   * Conversando com o Google Docs
-     * [Tutorial 1 - Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+  * Explorando Serviços em Nuvens Computacionais para o Tratamento de Dados. Avaliando alternativas com o Google Docs.     * [Tutorial 1 - Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
         * URL Planilha: https://docs.google.com/spreadsheets/d/1ljRdj2qDcBVyelC-tUP8kEC1sniKuUSaRgA_J_45Bs4/edit#gid=0
         * URL Submissão: https://script.google.com/macros/s/AKfycbzq5WpqbTBY6r7y96pYO4fbCFg728HFM5ogf6mY1dA6_bkFrdA/exec?cargacpu=99
 
@@ -174,11 +176,11 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 * Discussão de particularidades pendentes nos trabalhos dos alunos
 
 ### Encontro em 29/05/2020 - Inteligências Conversando
-* Google Apps Script
+* Inteligências Conversando: explorando inteligência computacional em ambos os lados das arquiteturas cliente-servidor. Ampliando a discussão referente ao uso dos Google Apps Scripts.
   * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-google-apps-script.pdf)
   * [Livro](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=livro-google-apps-script.pdf)
 
-### Encontro em 05/06/2020 - Simulações
+### Encontro em 05/06/2020 - Simulações de Hardware. Explorando a Plataforma Tinkercad da Autodesk.
 * [Tinkercad da Autodesk](https://www.tinkercad.com/) - Um simulador bastante completo do Arduino
   * Utilizando Wi-Fi com a ESP01: [Exemplo 1](https://www.youtube.com/watch?v=IhbyzAKt4bc) - [Exemplo 2](https://www.youtube.com/watch?v=NhTru6W4LKQ)
 
@@ -186,7 +188,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
 * Recesso do Feriado de Corpus Christi.
 
 ### Encontro em 19/06/2020
-* Planejamento da Segunda Avaliação
+* Planejamento da Segunda Avaliação. Discussão dos procedimento a serem adotados e a definição das atividades de cada aluno
   * Data: 03/06/2020
   * Projeto Operacional envolvendo o Simulador de Arduino Tinkercad e uma plataforma da IoT
   * Projetos:
@@ -203,7 +205,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
       
 ### Encontro em 26/06/2020
 * Discussões a respeito das atividades desenvolvidas ao longo do semestre, relacionando sua intersecção com a prática de projetos em engenharia de computação.
-* Discussão dos procedimentos para a para a finalização da Segunda Avaliação.
+* Revisão dos procedimentos para a para a finalização da Segunda Avaliação.
 
 ### Encontro em 03/07/2020
  * Finalização da Segunda Avaliação com apresentações por parte dos alunos.
