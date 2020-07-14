@@ -73,7 +73,7 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
 
 * **Relatos de experiências pelos alunos e Criação de Repositório Git**
   * Postagem do Repositório Git dos alunos
-  * Discussão do projeto desenvolvido pelo Matheus Stigger: [Arduino & Wi-Fi & ESP01](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - [Arduino & ThingsBoard](https://thingsboard.io/docs/samples/arduino/temperature/ )
+  * Discussão do projeto desenvolvido pelo Matheus Stigger: [Arduino & Wi-Fi & ESP01](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-wifi-esp8266-esp-01/) - [Arduino & ThingsBoard](https://thingsboard.io/docs/samples/arduino/temperature/)
   * Planejamento da Atividade da Semana: 
     * Opção A: Reproduzir Arduino & wi-fi & Thingsboard
     * Opção B: Python no Desktop & ThingSpeak
@@ -113,7 +113,8 @@ Este é o repositório de trabalho de Projeto Integrador V. A disciplina acontec
        * Tutorial utilizando [MQTT](https://www.mathworks.com/help/thingspeak/use-desktop-mqtt-client-to-publish-to-a-channel.html) - Veja também o exemplo do [Miguel](https://github.com/miguelgut/piv_python_mqtt)
 
 ### Encontro em 24/04/2020
-  * Explorando Serviços em Nuvens Computacionais para o Tratamento de Dados. Avaliando alternativas com o Google Docs.     * [Tutorial 1 - Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+  * Explorando Serviços em Nuvens Computacionais para o Tratamento de Dados. Avaliando alternativas com o Google Docs.     
+  * [Tutorial 1 - Enviando dados](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
         * URL Planilha: https://docs.google.com/spreadsheets/d/1ljRdj2qDcBVyelC-tUP8kEC1sniKuUSaRgA_J_45Bs4/edit#gid=0
         * URL Submissão: https://script.google.com/macros/s/AKfycbzq5WpqbTBY6r7y96pYO4fbCFg728HFM5ogf6mY1dA6_bkFrdA/exec?cargacpu=99
 
