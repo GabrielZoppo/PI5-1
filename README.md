@@ -200,7 +200,7 @@ return ContentService.createTextOutput("Ocupação CPU recebida");
     * **Matheus:**
       * Publicar dados da iluminação ambiente do Arduino, utilizando a ESP01 em um Notebook. Programar o Notebook utilizando Python e empregar como protocolo de comunicação o MQTT. 
     * **Miguel:**
-      * Publicar dados da partir de um programa em Python no Notebook. em uma planilha do Google
+      * Publicar dados da partir de um programa (em Python) no Notebook, em uma planilha do Google
     * **Ícaro:**
       * Publicar do simulador Fritizing (https://fritzing.org/) na plataforma de nuvem ThingSpeak utilizando MQTT
       
